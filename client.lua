@@ -8,6 +8,6 @@ Citizen.CreateThread(function()
 	        SetVehicleEnginePowerMultiplier(GetVehiclePedIsIn(ped, false), 60.0)
             end
         end
-	end
+    end
 end)
 --Emergency vehicle boost!
